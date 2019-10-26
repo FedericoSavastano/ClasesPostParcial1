@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1572112223 source:d:\savastano\sab20eje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1572112631 source:d:\savastano\sab20eje - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
